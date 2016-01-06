@@ -2,7 +2,7 @@
   "name": "@f/svg-elements",
   "description": "A list of SVG elements",
   "repository": "git://github.com/micro-js/svg-elements.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
