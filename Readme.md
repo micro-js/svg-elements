@@ -16,7 +16,7 @@ A list of SVG elements
 
 Just exports an array of svg element names. Those element names are:
 
-`animate circle defs ellipse g line linearGradient mask path pattern polygon polyline radialGradient rect stop svg text tspan`
+`animate circle clipPath defs ellipse g line linearGradient mask path pattern polygon polyline radialGradient rect stop svg text tspan use`
 
 ## Example
 
